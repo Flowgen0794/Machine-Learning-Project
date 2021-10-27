@@ -2,5 +2,5 @@
 - Purpose : Inferring Usage of Electricity(2021) by Machine Learning
 - Data :   train, test data (from dacon)
 <p align='center'>
-    <img src="./image/Project Sequence Chart.png"/>
+    <img src="https://raw.githubusercontent.com/seungjaepack/Machine-Learning-Project/develop/Image/Project%20Sequence%20Chart.png"/>
 </p>
